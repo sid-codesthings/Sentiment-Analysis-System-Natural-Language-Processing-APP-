@@ -1,0 +1,6 @@
+streamlit
+Sentiment Intensity Analyzer from vaderSentiment
+InstalledAppFlow from google_auth_oauthlib.flow
+build from googleapiclient.discovery
+pandas
+plotly
